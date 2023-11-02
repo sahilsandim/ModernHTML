@@ -1,0 +1,16 @@
+HTML ACCESSIBILITY
+1--> SEMANTIC TAG (Buttons)
+     -Buttons have suitable styling by default
+     -Screen reader can be identifies as a button
+     -clickable
+     -Hover
+     
+
+2--> HEADINGS(Headers)
+     -Highlighting main topic or content in an directory
+     -Navigation becomes Simple
+     -Helps to build navigation structure
+
+3--> Links(href)
+     -Explain clear text on clicking on that link
+     

@@ -1,0 +1,10 @@
+-HTML stands for Hypertext Markup Language,
+ HTML5 is new vesion to create dynamic and interactive website
+
+ [Features of HTML5]
+ -Audio and video tags
+ -Screenreaders
+ -Header and footer
+ -Metadata
+ -Nav tag
+ -Canvas 

@@ -1,0 +1,7 @@
+List of HTML entities
+-HTML entities denotes different codes that can be represent text characters wherever their is need
+-&#169;
+-&lt;
+-&gt;
+-&#163;
+-&#174;
